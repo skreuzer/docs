@@ -159,6 +159,7 @@ separate exporters are needed:
    * [CRG Roller Derby Scoreboard](https://github.com/rollerderby/scoreboard) (**direct**)
    * [Doorman](https://github.com/youtube/doorman) (**direct**)
    * [Etcd](https://github.com/coreos/etcd) (**direct**)
+   * [FreeBSD](https://reviews.freebsd.org/D8792) (**direct**)
    * [Kubernetes](https://github.com/kubernetes/kubernetes) (**direct**)
    * [Linkerd](https://github.com/BuoyantIO/linkerd)
    * [Netdata](https://github.com/firehol/netdata)
@@ -168,6 +169,7 @@ separate exporters are needed:
    * [SkyDNS](https://github.com/skynetservices/skydns) (**direct**)
    * [Telegraf](https://github.com/influxdata/telegraf/tree/master/plugins/outputs/prometheus_client)
    * [Weave Flux](https://github.com/weaveworks/flux)
+
 
 The software marked *direct* is also directly instrumented with a Prometheus client library.
 
